@@ -35,6 +35,10 @@
     background-color: rgb(0, 0, 0, 0.3);
 }
 
+.key:hover {
+    cursor: pointer;
+}
+
 .key-name {
     color: white;
     font-size: 30px;
